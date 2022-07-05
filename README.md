@@ -27,10 +27,10 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/johnserf-seed/douyinDownload">
+<a href="https://github.com/pwh-pwh/douyinDownload">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=douyinDownload&show_owner=false&theme=light&hide_border=false" />
   </a>
-<a href="https://github.com/johnserf-seed/mydiary">
+<a href="https://github.com/pwh-pwh/mydiary">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=mydiary&show_owner=false&hide_border=false" />
   </a>
 </div>
