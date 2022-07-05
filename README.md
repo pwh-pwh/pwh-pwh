@@ -8,7 +8,6 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <p align="center">
-    <a href="https://langyue.cc">Blog</a>&nbsp;•&nbsp;
     <a href="https://github.com/pwh-pwh">GitHub</a>&nbsp;•&nbsp;
     <!-- 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=pwh-pwh.visitor" alt="访客统计" />
@@ -39,9 +38,9 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![Go](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Go)
+![Go](https://img.shields.io/badge/-Go-pink?style=flat-square&logo=Go)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=Java)
-![Kotlin](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=Typescript&logoColor=white)
 
 🧠 计划学习:
