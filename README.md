@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://github.com/pwh-pwh">GitHub</a>&nbsp;•&nbsp;
     <!-- 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=pwh-pwh.visitor" alt="访客统计" />
+    <img src="https://komarev.com/ghpvc/?username=pwh-pwh" alt="访客统计" />
   </p>
 
 </div>
