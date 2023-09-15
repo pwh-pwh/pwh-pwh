@@ -28,10 +28,10 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/pwh-pwh/wxrecordread">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=douyinDownload&show_owner=false&theme=light&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=wxrecordread&show_owner=false&theme=light&hide_border=false" />
   </a>
 <a href="https://github.com/pwh-pwh/fuck_shake">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=mydiary&show_owner=false&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=fuck_shake&show_owner=false&hide_border=false" />
   </a>
 </div>
 
@@ -81,10 +81,10 @@
 
 <!-- GitHub数据统计 -->
 
-<!-- <div align="center">
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
+</div>
 <br>
 
 <!-- GitHub奖杯🏆 -->
