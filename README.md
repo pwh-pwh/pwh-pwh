@@ -16,7 +16,7 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/media/github-user-contribution.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/pwh-pwh/pwh-pwh/media/github-user-contribution.svg" /></div>
 
 
 #  👨‍💻 I Want To Say 🙋‍♂️
@@ -27,10 +27,10 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/pwh-pwh/douyinDownload">
+<a href="https://github.com/pwh-pwh/wxrecordread">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=douyinDownload&show_owner=false&theme=light&hide_border=false" />
   </a>
-<a href="https://github.com/pwh-pwh/mydiary">
+<a href="https://github.com/pwh-pwh/fuck_shake">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=mydiary&show_owner=false&hide_border=false" />
   </a>
 </div>
@@ -76,24 +76,14 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- profile-3d-contrib -->
-<!-- <div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/profile-3d-contrib/profile-season-animate.svg" width="100%"/>
-</div> -->
 
 # 🚀 Actions 🚀
 
 <!-- GitHub数据统计 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&count_private=true&hide_title=true&theme=default&hide_border=true"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&layout=compact&hide_title=true&hide_border=true&show_icons=true" />
-</div>
 
-<!-- 连续提交代码天数记录 -->
 <!-- <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnserf-seed&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> -->
 <br>
 
@@ -107,38 +97,5 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
 </div>
-
- 
 <br>
 
-<!-- GitHub Activity Graph
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=johnserf-seed&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
- -->
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 💯
-
-<!-- wakatime 统计 -->
-<table align="center">
-  <tr>
-    <td valign="top">  
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-    </td>
-  </tr>
-</table>
-
-<!-- metrics 基础资料
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/github-metrics.svg" alt="base metrics" width="75%"/>
-</div>
-
-<!-- just img -->
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
-</div> --> -->
