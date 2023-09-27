@@ -82,7 +82,7 @@
 <!-- GitHub数据统计 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=radical)](https://github.com/pwh-pwh)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=midnight-purple)](https://github.com/pwh-pwh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&hide=javascript,html&layout=compact&theme=radical)](https://github.com/pwh-pwh)
 
 <br>
