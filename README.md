@@ -83,7 +83,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=radical)](https://github.com/pwh-pwh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&layout=compact&hide=javascript,html&theme=radical)](https://github.com/pwh-pwh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&hide=javascript,html&theme=radical)](https://github.com/pwh-pwh)
 
 <br>
 
