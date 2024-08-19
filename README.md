@@ -27,8 +27,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/pwh-pwh/wxrecordread">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=wxrecordread&show_owner=false&theme=light&hide_border=false" />
+<a href="https://github.com/pwh-pwh/aiwechat-vercel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=aiwechat-vercel&show_owner=false&theme=light&hide_border=false" />
   </a>
 <a href="https://github.com/pwh-pwh/fuck_shake">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=fuck_shake&show_owner=false&hide_border=false" />
