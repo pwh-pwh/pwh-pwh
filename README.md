@@ -1,14 +1,9 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=40&color=2958F7&center=true&multiline=true&width=600&height=60&lines=Welcome+To+My+GitHub">
-  </a>
-</h1>
+# 👾 Welcome to my GitHub, I'm [coderpwh] 👾
 
 <!-- 个人资料徽标 -->
 <div align="center">
   <p align="center">
-    <a href="https://github.com/pwh-pwh">GitHub</a>&nbsp;•&nbsp;
+    <a href="https://github.com/pwh-pwh">Coderpwh</a>&nbsp;•&nbsp;
     <!-- 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=pwh-pwh" alt="访客统计" />
   </p>
@@ -18,84 +13,83 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/pwh-pwh/pwh-pwh/media/github-user-contribution.svg" /></div>
 
+Welcome to my corner of the web! 🚀 I'm a passionate developer focused on **Rust**, **Kotlin**, **Go**, and **JavaScript**. I build powerful applications, automate workflows, and love exploring new technologies. Let’s connect and create something awesome!
 
-#  👨‍💻 I Want To Say 🙋‍♂️
+---
 
-<p>✍️&nbsp;&nbsp;code for fun!</p>
-<p>&emsp;&emsp;Strive to improve my coding level on the way of learning in the future.</p>
-<p>&emsp;&emsp;just for fun</p>
+## 💥 About Me
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/pwh-pwh/aiwechat-vercel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=aiwechat-vercel&show_owner=false&theme=light&hide_border=false" />
-  </a>
-<a href="https://github.com/pwh-pwh/fuck_shake">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwh-pwh&repo=fuck_shake&show_owner=false&hide_border=false" />
-  </a>
-</div>
+🎯 **Focus**: Building fast and scalable applications using **Rust**, **Kotlin**, and **Go**.  
+💻 **Currently working on**: Some interesting projects or things..  
+🌱 **Learning**: Studying **web3** development and some unknown fields..  
+🤔 **Looking for help with**: for what?.  
+💬 **Ask me about**: Rust, Go, Kotlin, and fast, efficient code.  
+🚀 **Fun fact**: just for fun!
 
-💪 正在学习: 
+---
 
-&emsp;&emsp;
-![Go](https://img.shields.io/badge/-Go-pink?style=flat-square&logo=Go)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=Typescript&logoColor=white)
+## 🛠️ **Technologies & Tools**
 
-🧠 计划学习:
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Rust%20%7C%20Kotlin%20%7C%20Go-blue?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-v1.59-orange?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.8-blue?style=flat-square)
+![Go](https://img.shields.io/badge/Go-v1.18-blue?style=flat-square)
 
-&emsp;&emsp;
-![Flutter](https://img.shields.io/badge/Flutter-%23276DC3.svg?style=flat-square&logo=flutter&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+---
 
-🧰 常用的工具:
+## 🌟 **Featured Projects**
 
-&emsp;&emsp; 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Ios](https://img.shields.io/badge/Ios-151515?style=flat-square&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+### [**✨ Project 1: aiwechat-vercel**](https://github.com/pwh-pwh/aiwechat-vercel)
+A application for **Use vercel's functions to add the ai function to the WeChat public account**.
+- **Tech Stack**: Golang
+- 🚀 **Live Demo**: [Live Demo Link](https://aiwechat-vercel.vercel.app/)
+- 📄 **Documentation**: [Link to Docs](https://github.com/pwh-pwh/aiwechat-vercel)
 
-<!-- Gif -->
-<div align="center">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html5">
-  <img alt="ios" src="https://media.giphy.com/media/JQpOCgnGfb7FCvEVrd/giphy.gif" width="100" title="ios">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="vue" src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="100" title="vue">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
+### [**⚡ Project 2: Fuck Shake**](https://github.com/pwh-pwh/fuck_shake)
+A **android xposed app** built with **kotlin** for Fucking Shake App.
+- **Tech Stack**: Xposed, Kotlin, Yukihookapi
+- 📄 **Documentation**: [Link to Docs](https://github.com/pwh-pwh/fuck_shake)
 
+### [**⚡ Project 3: couplet_gen**](https://github.com/pwh-pwh/couplet_gen)
+A **AI couplet generator tool** built with **rust**.
+- **Tech Stack**: Rust, Iced
+- 📄 **Documentation**: [Link to Docs](https://github.com/pwh-pwh/couplet_gen)
 
-# 🚀 Actions 🚀
+---
 
-<!-- GitHub数据统计 -->
+## 📖 **Latest Blog Posts**
 
+- 💡 [**Neural NetworkWithKotlin**](https://pwh.lol/posts/neural-network-with-kotlin/)
+- 🛠️ [**Use Finite State Machine**](https://pwh.lol/posts/use-finite-state-machine/)
+- 📚 [**Rust Impl Text Hidden**](https://pwh.lol/posts/rust-impl-text-hidden/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=midnight-purple)](https://github.com/pwh-pwh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&hide=javascript,html,css,vue,plpgsql,scss&layout=compact&theme=radical)](https://github.com/pwh-pwh)
+---
 
-<br>
+## 🌍 **Find Me Elsewhere**
 
-<!-- GitHub奖杯🏆 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pwh-pwh&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-</div>
-<br>
+🌐 **Blog**: [pwh.lol](https://pwh.lol)  
+🔗 **LinkedIn**: [bilibili](https://space.bilibili.com/437966767)  
+📧 **Email**: [plmoknpwh@gmail.com](mailto:plmoknpwh@gmail.com)
 
-<!-- Dynamic Quotes -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-</div>
-<br>
+---
+
+## 📊 **Programming Language Stats**
+
+Here’s how I’ve been coding recently! 🖥️  
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pwh-pwh&hide=javascript,html,css,vue,plpgsql,scss&layout=compact&theme=radical)
+
+---
+
+## 📈 **GitHub Activity Graph**
+
+Check out my GitHub activity to see how active I’ve been coding and contributing.  
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=pwh-pwh&show_icons=true&theme=midnight-purple)
+
+---
+
+## 🚀 **Let's Collaborate!**
+
+Feel free to open issues, send PRs, or just drop me a message if you want to collaborate on projects. I'm always open to new ideas!
+
+---
 
