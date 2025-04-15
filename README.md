@@ -59,15 +59,15 @@ A **AI couplet generator tool** built with **rust**.
 
 ## 📖 **Latest Blog Posts**
 
-- 💡 [**Neural NetworkWithKotlin**](https://pwh.lol/posts/neural-network-with-kotlin/)
-- 🛠️ [**Use Finite State Machine**](https://pwh.lol/posts/use-finite-state-machine/)
-- 📚 [**Rust Impl Text Hidden**](https://pwh.lol/posts/rust-impl-text-hidden/)
+- 💡 [**Neural NetworkWithKotlin**](https://evallife.lol/posts/neural-network-with-kotlin/)
+- 🛠️ [**Use Finite State Machine**](https://evallife.lol/posts/use-finite-state-machine/)
+- 📚 [**Rust Impl Text Hidden**](https://evallife.lol/posts/rust-impl-text-hidden/)
 
 ---
 
 ## 🌍 **Find Me Elsewhere**
 
-🌐 **Blog**: [pwh.lol](https://pwh.lol)  
+🌐 **Blog**: [evallife.lol](https://evallife.lol)  
 🔗 **LinkedIn**: [bilibili](https://space.bilibili.com/437966767)  
 📧 **Email**: [plmoknpwh@gmail.com](mailto:plmoknpwh@gmail.com)
 
